@@ -37,5 +37,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tonya&theme=gotham)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalininatonya&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kalininatonya&repo=fleamarket&theme=gotham)](https://github.com/kalininatonya/fleaMarket)
