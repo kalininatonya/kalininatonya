@@ -34,7 +34,8 @@
 + <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="20"/> Figma
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kalininatonya&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tonya&theme=gotham)](https://git.io/streak-stats)
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalininatonya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalininatonya&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kalininatonya&repo=fleamarket&theme=gotham)](https://github.com/kalininatonya/fleaMarket)
